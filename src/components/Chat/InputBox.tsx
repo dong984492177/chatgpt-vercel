@@ -265,6 +265,9 @@ export default function ({
           </div>
         </Show>
       </div>
+      <div data-v-107442c9="">
+        <a target="_blank"  href="https://beian.miit.gov.cn/" one-link-mark="yes">晋ICP备2023013323号-1</a>
+      </div>
     </div>
   )
 }
